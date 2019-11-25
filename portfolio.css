@@ -1,20 +1,20 @@
 .one{
-  color:blue;
+  color:white;
 }
 .two{
-color:blue;
+color:white;
 }
 .three{
-  color:blue;
+  color:white;
 }
 .four{
-  color: blue;
+  color: white;
 }
 .five{
-  color: blue;
+  color: white;
 }
 .six{
-  color: blue;
+  color: white;
 }
 body{
   background-color: cornflowerblue;
@@ -24,4 +24,7 @@ body{
   width: 200px;
   height: 200px;
   margin: 20px;
+}
+.seven{
+  color: white;
 }
